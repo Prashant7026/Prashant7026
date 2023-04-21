@@ -1,4 +1,4 @@
-<p align="center"><img src="[https://thumbs.gfycat.com/NewHospitableEagle-max-1mb.gif](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)" width="360" height="200"/></p>
+<p align="center"><img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="360" height="220"/></p>
 <h1 align="center">Hi 👋, I'm Prashant Soni</h1>
 <h3 align="center">A passionate Entry Level Data Scientist</h3>
 
