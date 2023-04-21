@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant7026&label=Profile%20views&color=0e75b6&style=flat" alt="prashant7026" /> </p>
 
-- 🌱 I’m currently learning **Data Science, Data Structure and Algorithms**
+- 🌱 I’m currently learning **Machine Learning, Data Structure and Algorithms**
 
 - 📫 How to reach me **prashantkumarsoni30@gmail.com**
 
