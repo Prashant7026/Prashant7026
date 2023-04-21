@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **prashantkumarsoni30@gmail.com**
 
-- 📄 Know about my experiences [Machine Learning Intern and Data Analytics Intern](Machine Learning Intern and Data Analytics Intern)
+- 📄 Know about my experiences Machine Learning Intern and Data Analytics Intern
 
 - ⚡ Fun fact **I am Funny🙃**
 
