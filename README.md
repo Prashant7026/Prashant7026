@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Structure and Algorithms**
 
+- 💬 Ask me about **ML, DSA**
+
 - 📫 How to reach me **prashantkumarsoni30@gmail.com**
 
 - 📄 Know about my experiences Machine Learning Intern and Data Analytics Intern
