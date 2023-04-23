@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="360" height="220"/></p>
 <h1 align="center">Hi 👋, I'm Prashant Soni</h1>
-<h3 align="center">A Data Scientist Enthusiast</h3>
+<h3 align="center">A Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant7026&label=Profile%20views&color=0e75b6&style=flat" alt="prashant7026" /> </p>
 
