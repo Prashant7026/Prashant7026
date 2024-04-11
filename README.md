@@ -1,16 +1,16 @@
 <p align="center"><img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="360" height="220"/></p>
 <h1 align="center">Hi 👋, I'm Prashant Soni</h1>
-<h3 align="center">A Data Science Enthusiast</h3>
+<h3 align="center">A App Developer Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant7026&label=Profile%20views&color=0e75b6&style=flat" alt="prashant7026" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Structure and Algorithms**
+- 🌱 I’m currently learning **Flutter, Data Structure and Algorithms**
 
-- 💬 Ask me about **ML, DSA**
+- 💬 Ask me about **iOS, Flutter, ML, DSA**
 
 - 📫 How to reach me **prashantkumarsoni30@gmail.com**
 
-- 📄 Know about my experiences Machine Learning Intern and Data Analytics Intern
+- 📄 Know about my experiences iOS Developer Internship, Machine Learning Intern and Data Analytics Intern
 
 - ⚡ Fun fact **I am Funny🙃**
 
