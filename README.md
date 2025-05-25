@@ -31,6 +31,6 @@
 <h3> Github Analytics</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant7026&show_icons=true&locale=en&layout=compact&theme=merko" alt="prashant7026" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant7026&show_icons=true&locale=en&theme=merko" alt="prashant7026" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant7026&show_icons=true&locale=en&theme=merko" alt="prashant7026" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant7026&" alt="prashant7026" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant7026&theme=merko" alt="prashant7026" /></p>
