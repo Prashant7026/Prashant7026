@@ -12,7 +12,13 @@ Email id : prashantkumarsoni30@gmail.com
 
 Passionate about building intuitive apps, solving real-world problems, and always learning something new. Happy to connect! 🚀
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/prashant-kumar-soni-a4387620b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant-kumar-soni-a4387620b" height="30" width="40" /></a> <a href="https://www.scaler.com/academy/profile/739f44785fc2" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3JhJkWVw-hZyiScBxi-jkT1WjUXA0CxdG6g&s" alt="Prashant Kumar Soni" height="40" width="40" /></a> <a href="https://twitter.com/itz_ps_prashant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itz_ps_prashant" height="30" width="40" /></a> <a href="https://instagram.com/the_ps_prashant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_ps_prashant" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/21698161/prashant-kumar-soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21698161/prashant-kumar-soni" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prashant_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashant_26" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prashantkumarso2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/prashantkumarso2" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/prashantkumarsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jr. coder" height="30" width="40" /></a> 
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,12 +54,4 @@ Passionate about building intuitive apps, solving real-world problems, and alway
 - 📄 Know about my experiences iOS Developer Internship, Machine Learning Intern and Data Analytics Intern
 
 - ⚡ Fun fact **I am Funny🙃**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prashant-kumar-soni-a4387620b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant-kumar-soni-a4387620b" height="30" width="40" /></a> <a href="https://www.scaler.com/academy/profile/739f44785fc2" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3JhJkWVw-hZyiScBxi-jkT1WjUXA0CxdG6g&s" alt="Prashant Kumar Soni" height="40" width="40" /></a> <a href="https://twitter.com/itz_ps_prashant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itz_ps_prashant" height="30" width="40" /></a> <a href="https://instagram.com/the_ps_prashant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_ps_prashant" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/21698161/prashant-kumar-soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21698161/prashant-kumar-soni" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prashant_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashant_26" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prashantkumarso2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/prashantkumarso2" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/prashantkumarsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jr. coder" height="30" width="40" /></a> 
-</p>
 -->
