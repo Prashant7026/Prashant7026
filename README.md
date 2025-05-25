@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Prashant Kumar Soni
  
-I’m currently working as an iOS Engineer at VerSe Innovation (Dailyhunt & Josh), where I focus on building seamless and engaging mobile experiences at scale. With hands-on experience in Swift, SwiftUI, and UIKit, I specialize in modern iOS app development, real-time features, and performance optimization.
+Currently a Software Engineer , iOS Engineer at VerSe Innovation (Dailyhunt & Josh) team, where I focus on building seamless and engaging mobile experiences at scale. With hands-on experience in Swift, SwiftUI, and UIKit, I specialize in modern iOS app development, real-time features, and performance optimization.
 
 I hold a B.Tech in Computer Science from Veer Bahadur Singh Purvanchal University and have further sharpened my software engineering and problem-solving skills through Scaler Academy, where I ranked in the top 10% of learners with 300+ solved DSA problems.
 
